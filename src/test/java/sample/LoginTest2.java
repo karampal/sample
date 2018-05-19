@@ -1,3 +1,7 @@
+package sample;
+
+import org.testng.annotations.Test;
+
 class LoginTest2{
 
 @Test
